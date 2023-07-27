@@ -31,3 +31,5 @@ By going through the slides and Markdown (MD) files provided and answering the q
 ## Contributing
 
 We believe in the power of community-driven knowledge sharing. If you have valuable insights, additional tips, or resources related to front-end interviews, we encourage you to contribute to this repository. Together, we can create an even more valuable resource for aspiring front-end developers!
+
+#### If you find this helpful, give it a star ⭐
